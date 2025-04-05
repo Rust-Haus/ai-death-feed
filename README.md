@@ -1,14 +1,11 @@
-<!-- image here ai-death-feed\screenshots\logo.png  -->
-
-!(ai-death-feed/screenshots/logo.png)
-
-AI Death Feed
-
+![AI Death Feed logo](https://raw.githubusercontent.com/Rust-Haus/ai-death-feed/refs/heads/main/screenshots/aideathfeed.png)
 A plugin for the game Rust
 
 Compatible with Oxide and Carbon modding frameworks
 
 A Rust plugin that provides AI-generated kill commentary using RustGPT, making your server's death feed more entertaining and engaging.
+
+This plugin requires the [RustGPT plugin](https://codefling.com/plugins/rust-gpt) to be installed.
 
 FEATURES
 
