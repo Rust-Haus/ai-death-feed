@@ -26,6 +26,7 @@ DEPENDENCIES
 
 CONFIGURATION
 
+```json
 Commentary Settings:
 {
   "System Prompt": "You are a color commentator for a brutal post-apocalyptic death match TV show called RUST...",
@@ -53,6 +54,7 @@ Kill Feed Styling:
   "Commentary Font Size": 12,
   "Chat Icon (SteamID)": "76561197970331299"
 }
+```
 
 PERMISSIONS
 
