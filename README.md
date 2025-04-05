@@ -1,3 +1,7 @@
+<!-- image here ai-death-feed\screenshots\logo.png  -->
+
+!(ai-death-feed/screenshots/logo.png)
+
 AI Death Feed
 
 A plugin for the game Rust
