@@ -1,4 +1,5 @@
 ![AI Death Feed logo](https://raw.githubusercontent.com/Rust-Haus/ai-death-feed/refs/heads/main/screenshots/aideathfeed.png)
+
 A plugin for the game Rust
 
 Compatible with Oxide and Carbon modding frameworks
