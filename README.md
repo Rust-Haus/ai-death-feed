@@ -17,6 +17,7 @@ FEATURES
 - Customizable styling and formatting
 - Permission-based visibility control
 
+
 DEPENDENCIES
 
 - RustGPT plugin
